@@ -1,4 +1,4 @@
-# pacmen
+# PacMan Factory
 Factory for making pacmen
 You are given a starter.html code.
 When button "make one" is pressed you need to complete the code 
